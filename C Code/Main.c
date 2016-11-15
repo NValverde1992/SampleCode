@@ -7,7 +7,7 @@
 //
 //       LAB NAME:  Using Program Controlled Input and Output
 //
-//      FILE NAME:  lab_4.c
+//      FILE NAME:  Main.c
 //
 //        CREATED:  9/30/2014
 //
